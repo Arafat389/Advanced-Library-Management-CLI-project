@@ -1,0 +1,32 @@
+[
+    {
+        "title": "computer fandamental",
+        "author": "hirok",
+        "isbn": 93276,
+        "year": 2022,
+        "price": 35,
+        "quantity": 25,
+        "bookAddedAt": "13-12-2024 07:11:48",
+        "bookLastUpdatedAt": "13-12-2024 19:40:58"
+    },
+    {
+        "title": "dbms",
+        "author": "arafat",
+        "isbn": 65660,
+        "year": 2024,
+        "price": 20,
+        "quantity": 9,
+        "bookAddedAt": "13-12-2024 19:19:05",
+        "bookLastUpdatedAt": ""
+    },
+    {
+        "title": "op",
+        "author": "nazmul",
+        "isbn": 91510,
+        "year": 2021,
+        "price": 50,
+        "quantity": 40,
+        "bookAddedAt": "13-12-2024 19:47:13",
+        "bookLastUpdatedAt": ""
+    }
+]
